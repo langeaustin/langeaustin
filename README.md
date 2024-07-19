@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @langeaustin
-- 👀 I’m interested in Front End Development and Web Security.
-- 🌱 I’m currently learning all things javascript.
-- 💞️ I’m looking to collaborate on small business websites. 
+- 👀 I’m interested in all things Cyber Security.
+- 🌱 I’m currently studying for my CISSP. 
+- 💞️ I’m looking to land a role as a SOC Analyst. 
 - 📫 How to reach me langeaustin123@gmail.com
 
 <!---
